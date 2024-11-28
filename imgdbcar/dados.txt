@@ -1,0 +1,4 @@
+Urus_Mansory;1000000;C:\Users\Suporte\joel\fotos\mansory.jfif
+Gol_G3;20000;C:\Users\Suporte\joel\fotos\golg3.jfif
+Macan;300000.45;C:\Users\Suporte\joel\fotos\macan.jfif
+Tiger_Triumph;72001;C:\Users\Suporte\joel\fotos\tiger.jfif
